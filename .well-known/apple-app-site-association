@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "V8ZHK32XHN.com.cht.evems",
-                "paths": [ "/bindcard"]
+                "paths": [ "/bindcard/*"]
             }
         ]
     }
