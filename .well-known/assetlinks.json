@@ -3,8 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.cht.platformevms",
-    "sha256_cert_fingerprints":
-    ["7D:EE:D1:29:9D:08:6E:2A:4D:3F:C4:18:65:E5:31:3E:C2:42:6A:5D:A8:4E:93:CB:D8:E0:10:F1:3C:73:B5:F1"],
-    ["13:37:E4:E1:13:D6:BA:F2:42:DF:51:7D:3A:8F:0F:75:FD:BE:B7:15:A0:1F:3C:D4:82:76:83:33:93:1B:66:1B"]
+    "sha256_cert_fingerprints":[
+      "7D:EE:D1:29:9D:08:6E:2A:4D:3F:C4:18:65:E5:31:3E:C2:42:6A:5D:A8:4E:93:CB:D8:E0:10:F1:3C:73:B5:F1",
+      "13:37:E4:E1:13:D6:BA:F2:42:DF:51:7D:3A:8F:0F:75:FD:BE:B7:15:A0:1F:3C:D4:82:76:83:33:93:1B:66:1B"
+    ]
   }
 }]
